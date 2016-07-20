@@ -7,9 +7,10 @@ I got a front-end role that requires me to work with a react app so I'm creating
 - [x] Read the [React events system docs](https://facebook.github.io/react/docs/events.html)
 - [x] [I'll read the todo app to understand how to register a single store with a dispatcher](https://github.com/facebook/flux/tree/master/examples/flux-todomvc/)
 - [x] [Reading the intro to Flux and watching the Facebook talk at Hacker Way](https://facebook.github.io/flux/docs/overview.html)
-- [ ] [Baby’s First Reaction](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd#.bjrri8et2)
-- [ ] [The app related to the prevoius article](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd#.bjrri8et2)
+- [x] [Baby’s First Reaction](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd#.bjrri8et2)
+- [ ] [React Fundamentals course](https://egghead.io/courses/react-fundamentals)
+- [ ] [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+- [ ] [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 - [ ] [Dan Abramov - The Redux Journey at react-europe 2016](https://www.youtube.com/watch?v=uvAXVMwHJXU)
-- [ ] [React/Redux Tutorials by LearnCode.academy](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=1)
 - [ ] [Understand este](https://github.com/este/este) 
 - [ ] Updating the todo app in este as instructed.
