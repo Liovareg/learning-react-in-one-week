@@ -5,6 +5,7 @@ I got a front-end role that requires me to work with a react app so I'm creating
 - [x] [React JS Tutorials for Beginners -thenewboston](https://www.youtube.com/watch?v=-AbaV3nrw6E&list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA)
 - [x] [JSX Looks Like An Abomination But it’s Good for You](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918#.xdtphhqcy)
 - [ ] [Reading the intro to Flux and watching the Facebook talk at Hacker Way](https://facebook.github.io/flux/docs/overview.html)
+- [ ] [Dan Abramov - The Redux Journey at react-europe 2016](https://www.youtube.com/watch?v=uvAXVMwHJXU)
 - [ ] [Baby’s First Reaction](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd#.bjrri8et2)
 - [ ] [The app related to the prevoius article](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd#.bjrri8et2)
 - [ ] [React/Redux Tutorials by LearnCode.academy](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=1)
