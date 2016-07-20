@@ -12,3 +12,4 @@ I got a front-end role that requires me to work with a react app so I'm creating
 - [ ] [React/Redux Tutorials by LearnCode.academy](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=1)
 - [ ] [react-howto](https://github.com/petehunt/react-howto) 
 - [ ] [Understand este](https://github.com/este/este) 
+- [ ] Updating the todo app in este as instructed
