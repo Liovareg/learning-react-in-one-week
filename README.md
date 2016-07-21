@@ -9,7 +9,7 @@ I got a front-end role that requires me to work with a react app so I'm creating
 - [x] [Reading the intro to Flux and watching the Facebook talk at Hacker Way](https://facebook.github.io/flux/docs/overview.html)
 - [x] [Baby’s First Reaction](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd#.bjrri8et2)
 - [x] Read the [top-level API docs](https://facebook.github.io/react/docs/top-level-api.html)
-- [ ] [React Fundamentals course](https://egghead.io/courses/react-fundamentals)
+- [x] Watch [React Fundamentals course](https://egghead.io/courses/react-fundamentals) and write some [sample code](https://github.com/amrsekilly/learningReactFundamentalsSampleCode)
 - [ ] [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 - [ ] [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 - [ ] [Dan Abramov - The Redux Journey at react-europe 2016](https://www.youtube.com/watch?v=uvAXVMwHJXU)
