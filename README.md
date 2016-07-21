@@ -12,6 +12,7 @@ I got a front-end role that requires me to work with a react app so I'm creating
 - [x] Watch [React Fundamentals course](https://egghead.io/courses/react-fundamentals) and write some [sample code](https://github.com/amrsekilly/learningReactFundamentalsSampleCode)
 - [x] [Dan Abramov - The Redux Journey at react-europe 2016](https://www.youtube.com/watch?v=uvAXVMwHJXU)
 - [ ] Read the Redux docs for [the basics](http://redux.js.org/docs/basics/index.html)
+- [ ] Read [reducing boilerplates](http://redux.js.org/docs/recipes/ReducingBoilerplate.html) to learn more about keeping my code clean.
 - [ ] [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 - [ ] [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 - [ ] [Understand este](https://github.com/este/este) 
