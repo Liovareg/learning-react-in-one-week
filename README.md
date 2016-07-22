@@ -21,4 +21,4 @@ I got a front-end role that requires me to work with a react app so I'm creating
 - [ ] [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 - [ ] [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 - [ ] [Understand este](https://github.com/este/este) 
-- [ ] Updating the todo app in este as instructed.
+- [ ] [Updating the todo app in este as instructed](https://github.com/amrsekilly/updatedEste/commits/master?author=amrsekilly).
