@@ -12,7 +12,8 @@ I got a front-end role that requires me to work with a react app so I'm creating
 - [x] Watch [React Fundamentals course](https://egghead.io/courses/react-fundamentals) and write some [sample code](https://github.com/amrsekilly/learningReactFundamentalsSampleCode)
 - [x] [Dan Abramov - The Redux Journey at react-europe 2016](https://www.youtube.com/watch?v=uvAXVMwHJXU)
 - [ ] Read the Redux docs for [the basics](http://redux.js.org/docs/basics/index.html)
-  - [x] Felt the need to read about the [spread object syntax](http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html) to simplify my reducers.  
+  - [x] Felt the need to read about the [spread object syntax](http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html) to simplify my reducers. 
+  - [x] Learned about [combining reducers into a root reducer](http://redux.js.org/docs/api/combineReducers.html)
 - [ ] Read [reducing boilerplates](http://redux.js.org/docs/recipes/ReducingBoilerplate.html) to learn more about keeping my code clean.
 - [ ] [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 - [ ] [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
