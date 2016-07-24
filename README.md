@@ -17,9 +17,8 @@ I got a front-end role that requires me to work with a react app so I'm creating
   - [x] Read [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.ezc8sx5oh).
   - [x] Read [Thinking in React by Pete Hunt](https://facebook.github.io/react/docs/thinking-in-react.html).
   - [ ] Understand it's [usage with React](http://redux.js.org/docs/basics/UsageWithReact.html).
-- [ ] Read [reducing boilerplates](http://redux.js.org/docs/recipes/ReducingBoilerplate.html) to learn more about keeping my code clean.
+  - [ ] Read [reducing boilerplates](http://redux.js.org/docs/recipes/ReducingBoilerplate.html) to learn more about keeping my code clean.
 - [ ] [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
-- [ ] [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 - [ ] [Understand este](https://github.com/este/este) 
   - [x] Read the [Map](https://facebook.github.io/immutable-js/docs/#/Map) API for immutableJS.
 - [ ] [Updating the todo app in este as instructed](https://github.com/amrsekilly/updatedEste/commits/master?author=amrsekilly).
