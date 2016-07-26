@@ -21,5 +21,5 @@ I got a front-end role that requires me to work with a react app so I'm creating
 - [x] [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 - [ ] [Understand este](https://github.com/este/este) 
   - [x] Read the [Map](https://facebook.github.io/immutable-js/docs/#/Map) API for immutableJS.
-  - [ ] Read [using immutable records with Redux](https://tonyhb.gitbooks.io/redux-without-profanity/content/using_immutablejs_records.html). 
+  - [x] Read [using immutable records with Redux](https://tonyhb.gitbooks.io/redux-without-profanity/content/using_immutablejs_records.html). 
 - [ ] [Updating the todo app in este as instructed](https://github.com/amrsekilly/updatedEste/commits/master?author=amrsekilly).
