@@ -19,7 +19,8 @@ I got a front-end role that requires me to work with a react app so I'm creating
   - [x] Understand it's [usage with React](http://redux.js.org/docs/basics/UsageWithReact.html).
   - [ ] Read [reducing boilerplates](http://redux.js.org/docs/recipes/ReducingBoilerplate.html) to learn more about keeping my code clean.
 - [x] [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
-- [ ] [Understand este](https://github.com/este/este) 
+- [x] [Understand este](https://github.com/este/este) 
   - [x] Read the [Map](https://facebook.github.io/immutable-js/docs/#/Map) API for immutableJS.
   - [x] Read [using immutable records with Redux](https://tonyhb.gitbooks.io/redux-without-profanity/content/using_immutablejs_records.html). 
-- [ ] [Updating the todo app in este as instructed](https://github.com/amrsekilly/updatedEste/commits/master?author=amrsekilly).
+- [x] [Updating the todo app in este as instructed](https://github.com/amrsekilly/updatedEste/commits/master?author=amrsekilly).
+- [ ] Finish watching the [Redux course by Wes Bos](https://learnredux.com/view/sAzh8t1H0p4)
